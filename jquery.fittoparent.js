@@ -134,7 +134,8 @@
 						bottom: imagePosition.bottom,
 						right: imagePosition.right,
 						width: currentSize.width,
-						height: currentSize.height
+						height: currentSize.height,
+						position:'absolute'
 					});
 				}
 
